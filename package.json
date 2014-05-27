@@ -8,7 +8,7 @@
     "cli",
     "sdk"
   ],
-  "homepage": "https://github.com/felipe/wercker-nodejs",
+  "homepage": "https://github.com/felipefdl/wercker-nodejs",
   "preferGlobal": true,
   "author": {
     "name": "Felipe F. Lima",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/felipe/wercker-nodejs.git"
+    "url": "git://github.com/felipefdl/wercker-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/felipe/wercker-nodejs/issues"
+    "url": "https://github.com/felipefdl/wercker-nodejs/issues"
   },
   "engines": {
     "node": ">=0.8.0"
