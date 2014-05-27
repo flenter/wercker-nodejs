@@ -1,0 +1,7 @@
+{
+  "node"      :      true,
+  "strict"    :      true,
+  "validthis" :      true,
+  "maxlen"    :      150,
+  "indent"    :      4
+}
