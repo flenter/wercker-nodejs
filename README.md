@@ -5,6 +5,9 @@
 
 [![wercker status](https://app.wercker.com/status/71e3415efc514b5ed9ced8800db09c23/m "wercker status")](https://app.wercker.com/project/bykey/71e3415efc514b5ed9ced8800db09c23)
 
+[![Dependency Status](https://gemnasium.com/felipefdl/wercker-status.svg)](https://gemnasium.com/felipefdl/wercker-status)
+[![Gittip](http://img.shields.io/gittip/felipefdl.svg)](https://www.gittip.com/felipefdl)
+
 ## Documentation
 
 #### Installation
